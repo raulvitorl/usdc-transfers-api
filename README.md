@@ -4,9 +4,9 @@ RESTful API wrapper that consumes a decentralized The Graph subgraph indexing US
 
 Built with Node.js, Express, TypeScript, and graphql-request. Part of a full-stack Web3 portfolio showcasing on-chain data indexing, backend integration, and decentralized querying.
 
-## Live Demo
-https://usdc-transfers-api.vercel.app/api/transfers/recent  
-*(Deployed on Vercel – auto-updates on push)*
+### Live API
+https://usdc-transfers-api.vercel.app/api/transfers/recent
+Deployed on Vercel – auto-updates on push.
 
 ## Related Projects (Full Solution)
 - **Subgraph (data source)**: [raul-erc-20-transfers-sepolia](https://github.com/raulvitorl/raul-erc-20-transfers-sepolia)  
