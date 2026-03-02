@@ -97,4 +97,3 @@ Feel free to open issues or PRs!
 Part of a complete Web3 portfolio – check the subgraph repo for the full data pipeline.
 
 Made with ❤️ and coffee ☕
-```
